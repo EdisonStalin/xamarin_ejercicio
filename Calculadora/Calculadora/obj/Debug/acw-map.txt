@@ -1,0 +1,4 @@
+Calculadora.MainActivity, Calculadora;md5eb4927033293ab2c6afdc8e9f9997715.MainActivity
+Calculadora.MainActivity, Calculadora, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5eb4927033293ab2c6afdc8e9f9997715.MainActivity
+Calculadora.MainActivity;md5eb4927033293ab2c6afdc8e9f9997715.MainActivity
+calculadora.MainActivity;md5eb4927033293ab2c6afdc8e9f9997715.MainActivity

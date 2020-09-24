@@ -1,0 +1,17 @@
+/Users/iMacGines/Projects/Calculadora/Calculadora/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/iMacGines/Projects/Calculadora/Calculadora/bin/Debug/Calculadora.dll.mdb
+/Users/iMacGines/Projects/Calculadora/Calculadora/bin/Debug/Calculadora.dll
+/Users/iMacGines/Projects/Calculadora/Calculadora/bin/Debug/com.companyname.calculadora.apk
+/Users/iMacGines/Projects/Calculadora/Calculadora/obj/Debug/android/bin/com.companyname.calculadora.apk
+/Users/iMacGines/Projects/Calculadora/Calculadora/obj/Debug/res/layout/main.xml
+/Users/iMacGines/Projects/Calculadora/Calculadora/obj/Debug/res/values/strings.xml
+/Users/iMacGines/Projects/Calculadora/Calculadora/obj/Debug/res/drawable-hdpi/icon.png
+/Users/iMacGines/Projects/Calculadora/Calculadora/obj/Debug/res/drawable-mdpi/icon.png
+/Users/iMacGines/Projects/Calculadora/Calculadora/obj/Debug/res/drawable-xhdpi/icon.png
+/Users/iMacGines/Projects/Calculadora/Calculadora/obj/Debug/res/drawable-xxhdpi/icon.png
+/Users/iMacGines/Projects/Calculadora/Calculadora/obj/Debug/res/drawable-xxxhdpi/icon.png
+/Users/iMacGines/Projects/Calculadora/Calculadora/obj/Debug/R.cs.flag
+/Users/iMacGines/Projects/Calculadora/Calculadora/bin/Debug/com.companyname.calculadora-Signed.apk
+/Users/iMacGines/Projects/Calculadora/Calculadora/obj/Debug/uploadflags.txt
+/Users/iMacGines/Projects/Calculadora/Calculadora/obj/Debug/Calculadora.dll
+/Users/iMacGines/Projects/Calculadora/Calculadora/obj/Debug/Calculadora.dll.mdb
